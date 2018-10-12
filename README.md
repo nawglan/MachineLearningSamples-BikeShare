@@ -6,14 +6,14 @@ This is a companion sample project of the Azure Machine Learning and [Bike Share
 Azure Machine Learning services (preview) is an integrated, end-to-end data science, and advanced analytics solution for professional data scientists to prepare data, develop experiments and deploy models at cloud scale.
 
 In this tutorial, you use Azure Machine Learning services (preview) to learn how to:
-> [!div class="checklist"]
-> * Prepare data interactively with the Azure Machine Learning Data Preparation tool
-> * Import, transform, and create a test dataset
-> * Generate a Data Preparation package
-> * Run the Data Preparation Package using Python
-> * Generate a training dataset by reusing the Data Preparation package for additional input files
-> * Execute scripts in a local Azure CLI window.
-> * Execute scripts in a cloud Azure HDInsight environment.
+
+> - [ ] Prepare data interactively with the Azure Machine Learning Data Preparation tool
+> - [ ] Import, transform, and create a test dataset
+> - [ ] Generate a Data Preparation package
+> - [ ] Run the Data Preparation Package using Python
+> - [ ] Generate a training dataset by reusing the Data Preparation package for additional input files
+> - [ ] Execute scripts in a local Azure CLI window.
+> - [ ] Execute scripts in a cloud Azure HDInsight environment.
 
 
 ## Prerequisites
